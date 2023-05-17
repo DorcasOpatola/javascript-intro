@@ -13,6 +13,10 @@ let languages = ['C#', 'JavaScript', 'Ruby', 'PHP', 'Python'];
 // 2.   Add ‘Kotlin’ to the end of the array
 languages.push('Kotlin') // languages = ['C#', 'JavaScript', 'Ruby', 'PHP', 'Python', 'Kotlin']
 
+
+
+
+
 //3.    fruit = ['apple', 'mango', 'orange']
 
 
@@ -32,5 +36,5 @@ function max(numbers) {
 //5. 
 function valTimesIndex(arr) {
     return arr.map((value, index) => value * index);
-  }
+}
   
