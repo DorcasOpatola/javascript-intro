@@ -1,3 +1,3 @@
-### javascript-intro
+## javascript-intro
 
-JavaScript introductory class at STUTERN.
+JavaScript beginner classes at STUTERN.
