@@ -23,3 +23,19 @@ Subjects for Bolatito: Government, Economics, Literature, History
 
 
 
+// Question 5: A program that takes a positive number (num) and finds the power of 2 nearest to that number.
+function findNearestPowerOf2(num) {
+  let smallerPower = 1;
+  let largerPower = 2;
+  
+    //find the nearest powers of 2
+  while (largerPower <= num) {
+    smallerPower = largerPower;
+    largerPower *= 2;
+  }
+  
+    // determine the nearest power of 2
+  let pwr = (num - smallerPower <= largerPower - num) ? smallerPower : largerPower;
+  console.log("The number " + pwr + " is the power of 2 nearest to " + num + ".");
+}
+
