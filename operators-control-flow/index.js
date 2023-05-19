@@ -19,7 +19,7 @@ else {
 console.log("Subjects for Bolatito: " + subjects);
 
 // Output
-Subjects for Bolatito: Government, Economics, Literature, History
+// Subjects for Bolatito: Government, Economics, Literature, History
 
 
 
