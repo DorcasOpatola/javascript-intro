@@ -4,10 +4,9 @@
 let firstName = "Verath";
 let lastName = "Dami";
 
-alert("Hi " + firstName + lastName);
+alert("Hi " + firstName +" " + lastName);
 
-let age = prompt("How old are you?", 0);
+let age = prompt("How old are you " + firstName + "?", 0);
 
-alert(`You do amazing things for someone merely ${age} years old ${firstName}! 
-    I am impressed!`
+alert(`You do amazing things for someone merely ${age} years of age ${firstName}! I am impressed!`
 );

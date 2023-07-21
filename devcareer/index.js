@@ -4,7 +4,7 @@
 let namee = "Ilya";
 
 // the expression is a number
-alert( `hello ${1}` ); // hello 1
+alert( `hello ${24}` ); // hello 1
 
 // the expression is a string "name"
 alert( `hello ${"namee"}` ); // hello name

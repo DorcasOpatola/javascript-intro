@@ -3,7 +3,7 @@
 let admin
 , naame;
 
-naame = "John";
+naame = "John Fox";
 admin = naame;
 
 alert(admin);
