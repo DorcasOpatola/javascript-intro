@@ -1,3 +1,3 @@
 <script>
-	alert("I'm JavaScript!");
+	alert("I am JavaScript!");
 </script>

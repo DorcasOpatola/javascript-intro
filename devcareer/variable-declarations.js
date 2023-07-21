@@ -1,9 +1,9 @@
 "use strict";
 
 let admin
-, name;
+, naame;
 
-name = "John";
-admin = name;
+naame = "John";
+admin = naame;
 
 alert(admin);
