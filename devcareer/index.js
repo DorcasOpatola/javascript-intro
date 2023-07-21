@@ -1,4 +1,4 @@
-What does the following code print?
+// What does the following code print?
 
 
 let name = "Ilya";
